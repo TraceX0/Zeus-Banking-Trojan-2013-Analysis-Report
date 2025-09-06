@@ -3,7 +3,7 @@
 This repository contains a detailed analysis report of the Zeus Banking Trojan (2013 sample). The report is provided in DOCX format and covers all aspects of the malware investigation, including static and dynamic analysis, indicators of compromise, and detection methods.
 
 ## Contents
-- Full analysis report (DOCX)
+- Full analysis report
 - Supporting evidence and findings
 
 ## Description
